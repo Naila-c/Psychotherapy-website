@@ -1,0 +1,154 @@
+
+  h1{
+    color:#3FA796;
+    padding: auto;
+     font-family: 'Brush Script MT',cursive;
+     margin-left: 4%;
+  }
+
+  h6{
+    color:white;
+    text-align: center;
+  font-family:'Sacramento', cursive;
+  }
+
+  .navbar{
+  	background-color:#3FA796;
+    margin-bottom: 0%;
+  }
+
+  .topnav{
+    background-color:#AEDBCE;
+  }
+  h2{
+    color:#AEDBCE;
+    margin-top: 4%;
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+
+.greenuntangle{
+  width: 40%;
+  margin-left:30%;
+  margin-top: 2%;
+  margin-bottom:7%;
+}
+
+
+  .learnmore{
+    background-color: #B2A4FF;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+  }
+  .topcontainer2{
+	background-color:white;
+  margin-bottom:10%;
+  text-align: justify;
+  padding-left:2%;
+  margin-top: 7%;
+  }
+
+  #myCarousel{
+    background-color:#AEDBCE;
+    text-align: center;
+    padding: 7% 15%;
+  }
+.carousel-heading1{
+  text-align: center;
+
+}
+
+  #carousel-heading{
+    color: #777;
+  }
+  .carousel-item{
+    height:500px;
+    width:500px;
+    text-align: center;
+    padding: 5% 5%;
+    margin: 5% 5% 5% 20%;
+    line-height: 1.5rem;
+  }
+
+  .carouselimages{
+    height:200px;
+    width:200px;
+    border-radius: 100px;
+
+  }
+  .explaination{
+    font-family:"Monseratt-black";
+  font-style: italic;
+  color:#3FA796;
+  }
+  .btn-primary:hover{
+    color: black;
+  }
+.search-therapist{
+  text-align: center;
+  margin-top:5%;
+  margin-bottom: 20%;
+  background-color: turquoise-blue;
+  padding-top: 10%;
+}
+
+.about{
+  margin-left: 70%;
+  border: auto;
+  color: pink;
+}
+
+.searchbar{
+  color: pink;
+}
+
+.panicattack{
+  width: 30%;
+
+}
+
+.learnmore{
+  margin-left: 20px;
+  line-height: 2;
+
+}
+.about{
+  margin-left: 80%;
+  padding-right: 20px;
+}
+.contact{
+  padding-right: 20px;
+}
+.btn {
+  background: #ffd4f5;
+  background-image: -webkit-linear-gradient(top, #ffd4f5, #af52bd);
+  background-image: -moz-linear-gradient(top, #ffd4f5, #af52bd);
+  background-image: -ms-linear-gradient(top, #ffd4f5, #af52bd);
+  background-image: -o-linear-gradient(top, #ffd4f5, #af52bd);
+  background-image: linear-gradient(to bottom, #ffd4f5, #af52bd);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #e6e6e6;
+  font-size: 15x;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
